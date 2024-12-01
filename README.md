@@ -7,3 +7,5 @@
 ![Hasil Sistem 1](https://github.com/user-attachments/assets/231465ef-fa0a-4c5a-85c9-1d0e87b37b06)
 ![Hasil Sistem 2](https://github.com/user-attachments/assets/02113f9f-1cd8-4e51-86cd-9b1e2c3e041d)
 ![Hasil Sistem 3](https://github.com/user-attachments/assets/7b081b75-8592-48db-9640-253ac6dece65)
+Flowchart
+![Manajemen Kebiasaan Flowchart](https://github.com/user-attachments/assets/358cea04-d548-4e68-a37a-1cc5cfae46b4)
